@@ -1,0 +1,5 @@
+.button-area {
+  display: grid;
+  grid-template-columns: repeat(4, 20vw);
+  grid-template-rows: repeat(5, 20vw);
+}

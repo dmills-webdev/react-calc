@@ -1,0 +1,34 @@
+1. Equal sign
+
+2. Adjacent digits glued
+
+3. Signed numbers acknowledged
+
+4. DMAS Switch
+  | x-1 & X+1 operated
+  | x-1 = answer
+  | x & x + 2 cut from array
+  | x pushed back
+
+===================================
+
+
+
+Join digits
+
+Multiply and Divide numbers
+
+Handle Negatives
+  count minuses
+    number or start
+    symbol(s)
+    loop through symbols
+      count +1 on minus
+    number
+      evaluate count
+        if count even -> replace between numbers with +
+        if count odd  -> replace between numbers with -
+
+Add rest of stack
+
+Evaluate right to left as many times as possible, reset on each number reached
